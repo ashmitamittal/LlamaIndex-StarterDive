@@ -2,6 +2,7 @@
 Reading and querying a doc with LlamaIndex
 
 To get started run the ipynb file
+<br> Add your OpenAI key
 <br> Create a **test** folder and store a doc under it that you want to query
 
 #### Features
